@@ -1,0 +1,1 @@
+Create a configurable middleware function that limits the access to a route and where the limit is configurable.
