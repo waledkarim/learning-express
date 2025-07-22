@@ -1,0 +1,1 @@
+Create a modular route for user comments and make the parent route's params accessible to the child routes.

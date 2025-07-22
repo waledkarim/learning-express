@@ -1,0 +1,1 @@
+Create a modular and mountable route and create a router specific middleware that logs the time of the request
