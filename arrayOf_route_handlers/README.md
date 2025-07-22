@@ -1,0 +1,1 @@
+Create an endpoint that has an array of route handlers and create another endpoint that has a combination of simple route handlers and an array of route handlers
