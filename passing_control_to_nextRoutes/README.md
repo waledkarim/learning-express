@@ -1,0 +1,1 @@
+Create two routes /dashboard, one for users and other for admin, if the role is user skip all he middleware functions in the admin route and move to the other route.
