@@ -1,0 +1,1 @@
+Write an application that checks whether an admin is authenticated or not irrespective of the HTTP method and then forward it to the specific route.
