@@ -1,0 +1,1 @@
+There is an image in the public folder. Serve this image to the frontend
